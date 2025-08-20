@@ -2,6 +2,9 @@
 
 This project presents an **interactive Power BI dashboard** to analyze sales performance across different categories, regions, and payment types. The dashboard provides a complete view of **sales, profit, returns, and trends** to help identify growth opportunities and problem areas.
 
+
+---
+<img width="1632" height="918" alt="Image" src="https://github.com/user-attachments/assets/8ef9ff0e-03db-45f3-b085-543735007eb0" />
 ---
 
 ## 🚀 Project Overview
