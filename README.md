@@ -4,7 +4,7 @@ This project presents an **interactive Power BI dashboard** to analyze sales per
 
 
 ---
-<img width="1632" height="918" alt="Image" src="https://github.com/user-attachments/assets/8ef9ff0e-03db-45f3-b085-543735007eb0" />
+<img width="1639" height="921" alt="Image" src="https://github.com/user-attachments/assets/b7dbb1c1-d9cf-4b60-b982-d2492d1382a0" />
 ---
 
 ## 🚀 Project Overview
